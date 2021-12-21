@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7040132522",
+    "project_id": "traffic-sign-recognition-a5199",
+    "storage_bucket": "traffic-sign-recognition-a5199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7040132522:android:828356f31cff7000ea77d3",
+        "android_client_info": {
+          "package_name": "com.dong_pham.trafficsignrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7040132522-9jftt4jjj1kagsdtth5pgs27ndu7aofu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgosldcWzZsWkIWU58RFWGYZWPwbCMxlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7040132522-9jftt4jjj1kagsdtth5pgs27ndu7aofu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
